@@ -6,6 +6,12 @@
 
 ## Install
 
+Option 1:
+
+Install **[No Moments for Twitter](https://chrome.google.com/webstore/detail/no-moments-for-twitter/kenlkkgfablehdjlhidnacobagpcbmcp)** by going to the Chrome Web Store.
+
+Option 2:
+
 1. Download a `zip` from the [releases](https://github.com/ngoldman/no-moments/releases/) section and unzip it on your local hard drive.
 2. Open `chrome://extensions/`.
 3. Make sure `Developer mode` is enabled.
