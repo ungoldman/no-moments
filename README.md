@@ -21,7 +21,7 @@ Presto! No Moments.
 
 ## Disclaimer
 
-This extension is distributed free of charge and made for educational/practical purposes only! No harm is intended toward the great nation of Twitter. I just don't want to accidentally click the button `Moments` button anymore, and I know a lot of other people who'd rather not deal with it too.
+This extension is distributed free of charge and made for educational/practical purposes only! No harm is intended toward the great nation of Twitter. I just don't want to accidentally click the `Moments` button anymore.
 
 ## License
 
