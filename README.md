@@ -2,6 +2,8 @@
 
 > A chrome extension that hides the Moments button on the Twitter website.
 
+![No Moments](icons/48.png)
+
 ## Install
 
 1. Download a `zip` from the [releases](https://github.com/ngoldman/no-moments/releases/) section and unzip it on your local hard drive.
